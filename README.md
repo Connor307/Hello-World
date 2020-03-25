@@ -1,2 +1,2 @@
-# Hello-World - From Connor L.
+Hello-World - From Connor L.
 
